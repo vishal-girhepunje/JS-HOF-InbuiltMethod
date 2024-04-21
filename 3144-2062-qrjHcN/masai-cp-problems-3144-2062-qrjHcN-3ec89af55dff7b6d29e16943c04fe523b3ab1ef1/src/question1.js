@@ -54,6 +54,7 @@ function defaultFunction(parameter1="default", parameter2="default") {
 //Problem 5 object shorthand-Employee Information*********************************************
 
 // You are given an array of employee objects, each containing information about an employee. Your task is to utilize destructuring to extract and manipulate the data based on specific requirements .
+// You are given an array of employee objects, each containing information about an employee. Your task is to utilize destructuring to extract and manipulate the data based on specific requirements .
 
 // **Employee Data:**
 
