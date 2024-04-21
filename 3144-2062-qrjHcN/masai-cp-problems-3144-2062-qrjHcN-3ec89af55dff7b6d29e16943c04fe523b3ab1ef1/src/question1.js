@@ -50,7 +50,7 @@ function defaultFunction(parameter1="default", parameter2="default") {
  let obj3=defaultFunction("one", "two"); //{ parameter1: 'one', parameter2: 'two' }
 
  console.log(obj1,obj2,obj3);
-
+//  console.log(obj1,obj2,obj3);
 //Problem 5 object shorthand-Employee Information*********************************************
 
 // You are given an array of employee objects, each containing information about an employee. Your task is to utilize destructuring to extract and manipulate the data based on specific requirements .
